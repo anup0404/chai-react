@@ -8,7 +8,7 @@ function App() {
         className="w-full h-screen duration-200"
         style={{ backgroundColor: color }}
       >
-        <div className="flex flex-wrap  justify-center fixed bottom-12  insert-x-0 px-2">
+        <div className="flex flex-wrap  justify-center fixed bottom-12  insert-x-0 px-2 w-full">
           <div className="flex flex-wrap gap-3 justify-center bg-white shadow-lg px-3 py-2 rounded-2xl ">
             <div
               onClick={() => setColor("red")}
