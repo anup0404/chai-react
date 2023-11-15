@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 100vh; 
+  text-align: center ;
+  font-size: larger;
+}
+.input{
+  width: 40%;
+    padding: 2px;
+    border-radius: 4px;
+    border:2px solid black;
+}
+.select{
+  margin:10px;
+  border-radius: 4px;
+  border: 2px solid black;
+  padding: 2px;
+}
+.equals{
+  font-size: larger;
+
+
+}
